@@ -4,9 +4,9 @@ import "./UsersList.css";
 const UsersList = () => {
   // State to store users' data
   const [users, setUsers] = useState([
-    { id: 1, name: "John Doe", age: 25 },
-    { id: 2, name: "Jane Smith", age: 30 },
-    { id: 3, name: "Alice Johnson", age: 22 },
+    { id: 1, name: "Abel Tadese", age: 25 },
+    { id: 2, name: "Solomon Gebre", age: 30 },
+    { id: 3, name: "Siem Sium", age: 22 },
   ]);
 
   // State to handle editing
